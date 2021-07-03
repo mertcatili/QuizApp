@@ -1,0 +1,1 @@
+JDBC kullanılmıştır. Veri Modeli export edilemediği için sadece tablonun exportu alınabiliyor. Yeni bir veri tabanı oluşturulması gerek verilerin kaydedilmesi için.
